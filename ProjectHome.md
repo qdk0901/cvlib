@@ -1,0 +1,1 @@
+Some classes that have been open sourced by Course Vector. This includes some classes such as the AMF0 and AMF3 parsers. These were derived from AMFPHP and is licensed under the GPL as well.
